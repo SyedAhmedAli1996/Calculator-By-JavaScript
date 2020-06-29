@@ -1,0 +1,43 @@
+
+body{
+ background-image: url(images/elegant-white-texture-background_23-2148431731.jpg);
+}
+.main{
+    border: 2px solid grey !important;
+    margin: 0 auto !important;
+    width: 320px !important;
+    border-radius: 4px;
+}
+.Btn{
+    width: 65px;
+    margin: 2px;
+   border-radius: 8px;
+
+}
+.ClearBtn{
+    width: 99%;
+    margin: 5px 0px 5px 0px;
+    border-radius: 8px;
+}
+.result{
+    width: 97%;
+    border-radius: 4px;
+  
+}
+h1{
+    text-align: center;
+    font-weight: bold !important;
+}
+
+
+.Btn:hover{
+    background-size: 150%;
+    background-color: #c8d6e5;
+    cursor: pointer;
+
+}
+.ClearBtn:hover{
+    cursor: pointer;
+    background-size: 150%;
+    background-color: #c8d6e5;
+}
